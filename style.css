@@ -10,13 +10,24 @@ header {
 }
 
 nav a {
-    margin-right: 15px;
+    margin-right: 20px;
 }
 
 footer {
-    margin-top: 40px;
+    margin-top: 50px;
     font-family: monospace;
     color: #555;
     border-top: 1px solid #ddd;
     padding-top: 10px;
+}
+h1 {
+    color: darkblue;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
 }
